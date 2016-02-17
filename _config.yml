@@ -2,6 +2,7 @@ name: Varnost
 favicon: null
 layout_spectrum: 0.25837
 typography_spectrum: 0.41369
+title: Varnost Development Group
 cta:
   domain: null
   bucket: null
