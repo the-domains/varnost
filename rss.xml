@@ -2,30 +2,16 @@
     <channel>
         <title><![CDATA[Varnost]]></title>
         <description><![CDATA[Varnost]]></description>
-        <link>https://thegrid.ai/varnost/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 05:09:42 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/varnost/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 18:46:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>nlnñmññ</p>]]></description>
-            <link>https://thegrid.ai/varnost/f4c76e81-2861-479a-8a12-974185bf2dc9/index.html</link>
-            <guid isPermaLink="false">f4c76e81-2861-479a-8a12-974185bf2dc9</guid>
-            <pubDate>Wed, 17 Feb 2016 05:09:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>heileioewnf</p>]]></description>
-            <link>https://thegrid.ai/varnost/6cb9bb19-8f95-491d-9bf1-b8b4748ee1c2/index.html</link>
-            <guid isPermaLink="false">6cb9bb19-8f95-491d-9bf1-b8b4748ee1c2</guid>
-            <pubDate>Wed, 17 Feb 2016 05:06:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Real Estate development</p>]]></description>
-            <link>https://thegrid.ai/varnost/cc91319a-c9c4-454e-abb2-f61eb68db35c/index.html</link>
-            <guid isPermaLink="false">cc91319a-c9c4-454e-abb2-f61eb68db35c</guid>
-            <pubDate>Wed, 17 Feb 2016 04:59:41 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bf175b3-13da-4ed2-87e6-836c9ea03c61.jpg">]]></description>
+            <link>undefined08f2ba7b-8637-4469-b111-2b1702cc51cc/index.html</link>
+            <guid isPermaLink="false">08f2ba7b-8637-4469-b111-2b1702cc51cc</guid>
+            <pubDate>Wed, 17 Feb 2016 18:44:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
