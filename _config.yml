@@ -1,7 +1,7 @@
 name: Varnost
 favicon: null
-layout_spectrum: 0.8238594601862133
-typography_spectrum: 0.3341904904227704
+layout_spectrum: 0.25837
+typography_spectrum: 0.41369
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7509121901821345
-  lightness: 0.2937776199541986
-  saturation: 0.4050121516920626
-  rhythmicContrast: 0.6246131879743189
+    - '#8c8c8c'
+    - '#070707'
+    - '#808080'
+    - '#999999'
+    - '#ffffff'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
