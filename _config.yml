@@ -1,12 +1,28 @@
-layout_spectrum: 0.2365591
-color:
-  saturation: 0.1003584
-  brandStrength: 0.9247312
-  lightness: 0.2096774
-  brandColors:
-    - '#3B393A'
-    - '#E9E9E7'
-    - '#BEBEB3'
-  rhythmicContrast: 0.5734767
-typography_spectrum: 0.8620071
 name: Varnost
+favicon: null
+layout_spectrum: 0.8238594601862133
+typography_spectrum: 0.3341904904227704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7509121901821345
+  lightness: 0.2937776199541986
+  saturation: 0.4050121516920626
+  rhythmicContrast: 0.6246131879743189
+purpose: []
